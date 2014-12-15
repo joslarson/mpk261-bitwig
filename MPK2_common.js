@@ -305,7 +305,7 @@ function exit()
 function onMidi(status, data1, data2)
 {
     pressed = data2 > 0;
-    
+
     /* transport */
     if (status ==  0xb0) {
         if (data1 == 115 && pressed == true) {
@@ -318,13 +318,20 @@ function onMidi(status, data1, data2)
             transport.stop();
         }
         if (data1 == 118 && pressed == true) {
-            transport.play();
+            if(shifted){
+                transport.toggleClick();
+            } else {
+                transport.play();
+            }
         }
         if (data1 == 119 && pressed == true) {
-            transport.record();
+            if(shifted){
+                transport.toggleLauncherOverdub();
+            } else {
+                transport.record();
+            }
         }
-        
-    }
+    }    
     
     if (status == PadStatus || status == 0x89) {
         activePadMode.handleMIDI(data1,data2);
