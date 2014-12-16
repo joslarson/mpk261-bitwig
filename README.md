@@ -26,7 +26,7 @@ Control Setup
 
 - Pads 1-64 trigger Scenes 1-64, relatively.
 
-### DAW Control Cursors:
+### DAW Control Cursors
 
 <kbd>MIDDLE</kbd> is <kbd>SHIFT</kbd>
 
