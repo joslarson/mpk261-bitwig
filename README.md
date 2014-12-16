@@ -30,13 +30,13 @@ Control Setup
 
 MIDDLE - Shift modifier
 
-<kbd>UP</kbd> / <kbd>DOWN</kbd>: Device Control Bank shift
+<kbd>UP/DOWN</kbd>: Device Control Bank shift
 
-<kbd>SHIFT</kbd> + <kbd>UP / DOWN</kbd>: Cycle preset for focused device
+<kbd>SHIFT</kbd> + <kbd>UP/DOWN</kbd>: Cycle preset for focused device
 
-<kbd>LEFT / RIGHT</kbd>: Focus device left/right
+<kbd>LEFT/RIGHT</kbd>: Focus device left/right
 
-<kbd>SHIFT</kbd> + <kbd>LEFT / RIGHT</kbd>: Focus track left/right
+<kbd>SHIFT</kbd> + <kbd>LEFT/RIGHT</kbd>: Focus track left/right
 
 ### Control Surface Functions
 
