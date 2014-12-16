@@ -15,12 +15,15 @@ Control Setup
 ### Pad Modes
 
 **Instrument/Drum Rack**
+
 - If triggering Drum Machine, pads will receive LED feedback to indicate which pads include samples. Otherwise, the pads will function as normal and send notes starting at 36 
 
 **Clip Launch**
+
 - Emulates APC behavior for Bitwig's Clip Launch on the hardware pads
 
 **Scene Launch**
+
 - Pads 1-64 trigger Scenes 1-64, relatively.
 
 ### DAW Control Cursors:
@@ -28,8 +31,11 @@ Control Setup
 MIDDLE - Shift modifier
 
 <kbd>UP</kbd> / <kbd>DOWN</kbd>: Device Control Bank shift
+
 <kbd>SHIFT</kbd> + <kbd>UP</kbd> / <kbd>DOWN</kbd>: Cycle preset for focused device
+
 <kbd>LEFT</kbd> / <kbd>RIGHT</kbd>: Focus device left/right
+
 <kbd>SHIFT</kbd> + <kbd>LEFT</kbd> / <kbd>RIGHT</kbd>: Focus track left/right
 
 ### Control Surface Functions
