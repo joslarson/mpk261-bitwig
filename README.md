@@ -84,4 +84,4 @@ Device Macros
 
 <kbd>S1 - S8</kbd> Track Mute
 
-<kbd>SHIFT</kbd> + <kbd>S1 -S8</kbd> Track Solo
+<kbd>SHIFT</kbd> + <kbd>S1 - S8</kbd> Track Solo
