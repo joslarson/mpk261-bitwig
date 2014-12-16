@@ -28,7 +28,7 @@ Control Setup
 
 ### DAW Control Cursors:
 
-MIDDLE - Shift modifier
+<kbd>MIDDLE</kbd> = <kbd>SHIFT</kbd>
 
 <kbd>UP/DOWN</kbd>: Device Control Bank shift
 
