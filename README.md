@@ -43,10 +43,10 @@ Control Setup
 
 **Bank A**
 
-<kbd>K1</kbd> - <kbd>K8</kbd>
+<kbd>K1 - K8</kbd>
 Device Macros
 
-<kbd>F1</kbd> - <kbd>F8</kbd> Focused Device Control
+<kbd>F1 - F8</kbd> Focused Device Control
 
 <kbd>S1</kbd> Instrument/Drum Rack Modes
 
