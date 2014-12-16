@@ -43,47 +43,39 @@ Control Setup
 
 **Bank A**
 
-K1 - K8
+<kbd>K1</kbd> - <kbd>K8</kbd>
 Device Macros
 
-F1 - F8
+<kbd>F1</kbd> - <kbd>F8</kbd>
 Focused Device Control
 
-S1 - Instrument/Drum Rack Modes
-S2 - Clip Launch: 1-4
-S3 - Clip Launch: 5-8
-S4 - Scene Launch 1-64
-S5 - N/F
-S6 - N/F
-S7 - N/F
-S8 - Pop-up notification toggle
+* <kbd>S1</kbd> Instrument/Drum Rack Modes
+* <kbd>S2</kbd> Clip Launch: 1-4
+* <kbd>S3</kbd> Clip Launch: 5-8
+* <kbd>S4</kbd> Scene Launch 1-64
+* <kbd>S5</kbd> N/F
+* <kbd>S6</kbd> N/F
+* <kbd>S7</kbd> N/F
+* <kbd>S8</kbd> Pop-up notification toggle
 
 
 **Bank B**
 
-K1 - K8
-Track Pan
+<kbd>K1 - K8</kbd> Track Pan
 
-F1 - F8
-Track Level
+<kbd>F1 - F8</kbd> Track Level
 
-S1 - S8
-Track Record Ready
+<kbd>S1 - S8</kbd> Track Record Ready
 
-S1 - S8 (SHIFT)
-Track Select
+<kbd>SHIFT</kbd> + <kbd>S1 - S8</kbd> Track Select
 
 
 **Bank C**
 
-K1 - K8
-Send A Level
+<kbd>K1 - K8</kbd> Send A Level
 
-F1 - F8
-Send B Level
+<kbd>F1 - F8</kbd> Send B Level
 
-S1 - S8
-Track Mute
+<kbd>S1 - S8</kbd> Track Mute
 
-S1 - S8 (SHIFT)
-Track Solo
+<kbd>SHIFT</kbd> + <kbd>S1</kbd> - <kbd>S8</kbd> Track Solo
