@@ -1,7 +1,7 @@
 Custom Akai MPK261 Bitwig Controller Script
 ===========================================
 
-This script is based on the official script by Akai ([available here](http://www.akaipro.com/product/mpk-261#downloads)) which I have customized for my own needs.
+This script is based on the official script by Akai ([available here](http://www.akaipro.com/product/mpk-261#downloads)).
 
 Change Log
 ----------
@@ -40,7 +40,8 @@ Control Setup
 
 ### Control Surface Functions
 
-#### Bank A
+
+**Bank A**
 
 K1 - K8
 Device Macros
@@ -58,7 +59,7 @@ S7 - N/F
 S8 - Pop-up notification toggle
 
 
-#### Bank B
+**Bank B**
 
 K1 - K8
 Track Pan
@@ -72,7 +73,9 @@ Track Record Ready
 S1 - S8 (SHIFT)
 Track Select
 
-#### Bank C
+
+**Bank C**
+
 K1 - K8
 Send A Level
 
