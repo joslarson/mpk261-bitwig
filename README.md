@@ -3,8 +3,8 @@ Custom Akai MPK261 Bitwig Controller Script
 
 This script is based on the official script by Akai [available here](http://www.akaipro.com/product/mpk-261#downloads).
 
-Change Log
-----------
+Change Log / Differneces Original Script
+----------------------------------------
 - **Fixed:** Added Sustain pedal support (the glaring bug that got me looking into customizing the script)
 - **Added:** <kbd>SHIFT</kbd> + <kbd>PLAY</kbd> toggles metronome
 - **Added:** <kbd>SHIFT</kbd> + <kbd>REC</kbd> toggles clip launcher overdub mode
