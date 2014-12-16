@@ -1,7 +1,7 @@
 Custom Akai MPK261 Bitwig Controller Script
 ===========================================
 
-This script is based on the official script by Akai ([available here](http://www.akaipro.com/product/mpk-261#downloads)).
+This script is based on the official script by Akai [available here](http://www.akaipro.com/product/mpk-261#downloads).
 
 Change Log
 ----------
