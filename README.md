@@ -5,6 +5,7 @@ This script is based on the official script by Akai [available here](http://www.
 
 Change Log / Differneces Original Script
 ----------------------------------------
+- **Fixed:** Added Modwheel support
 - **Fixed:** Added Sustain pedal support (the glaring bug that got me looking into customizing the script)
 - **Added:** <kbd>SHIFT</kbd> + <kbd>PLAY</kbd> toggles metronome
 - **Added:** <kbd>SHIFT</kbd> + <kbd>REC</kbd> toggles clip launcher overdub mode
